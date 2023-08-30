@@ -1,0 +1,1 @@
+<img alt="cycos - code, deploy, enjoy" src="../assets/cycos_1024w.jpg?raw=true" width="1024">
